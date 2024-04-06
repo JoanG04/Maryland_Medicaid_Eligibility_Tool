@@ -48,7 +48,7 @@ function income_household_size_check(applicant) {
 //check eligibility function
 function check_eligibility(applicant) {
     if (applicant.pregnant) {
-        return "Eligible";
+        return "Medicaid";
     }
 
     if (applicant.immigration_status['undocumented']) {

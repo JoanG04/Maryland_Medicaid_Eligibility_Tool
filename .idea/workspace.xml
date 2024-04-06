@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfebe75b-a9ba-4aca-bc7f-67ed72f76ee5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="bfebe75b-a9ba-4aca-bc7f-67ed72f76ee5" name="Changes" comment="SyncTech" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jgarcia04 &lt;joangarciax11@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -62,8 +63,44 @@
       <updated>1712423333298</updated>
       <workItem from="1712423335021" duration="6148000" />
       <workItem from="1712443239893" duration="820000" />
-      <workItem from="1712444361320" duration="382000" />
+      <workItem from="1712444361320" duration="1029000" />
     </task>
+    <task id="LOCAL-00001" summary="none">
+      <created>1712444780653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712444780653</updated>
+    </task>
+    <task id="LOCAL-00002" summary="script.js">
+      <created>1712444985257</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712444985257</updated>
+    </task>
+    <task id="LOCAL-00003" summary="SyncTech">
+      <created>1712445133689</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712445133689</updated>
+    </task>
+    <task id="LOCAL-00004" summary="SyncTech">
+      <created>1712445151946</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712445151946</updated>
+    </task>
+    <task id="LOCAL-00005" summary="SyncTech">
+      <created>1712445283404</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712445283404</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,5 +116,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="n/a" />
+    <MESSAGE value="none" />
+    <MESSAGE value="script.js" />
+    <MESSAGE value="SyncTech" />
+    <option name="LAST_COMMIT_MESSAGE" value="SyncTech" />
   </component>
 </project>
