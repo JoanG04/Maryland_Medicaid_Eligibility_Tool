@@ -24,6 +24,9 @@ function collect_applicant_info(form_data) {
     applicant.age = form_data.age;
     applicant.pregnant = form_data.pregnant;
     applicant.chronic_condition = form_data.chronic_condition;
+    applicant.immigration_status['green card years'] = form_data.green_card_years || null;
+    applicant.immigration_status['visa years'] = form_data.visa_years || null;
+    applicant.immigration_status['work permit years'] = form_data.work_permit_years || null;
 
     if (typeof form_data.immigration_status === 'string') {
         applicant.immigration_status[form_data.immigration_status] = true;
